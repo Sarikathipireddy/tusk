@@ -1,4 +1,5 @@
-
+This is practical git
+***********************
 THis is my recipes file
 I will add the recipes of
 Vegeterian curries
